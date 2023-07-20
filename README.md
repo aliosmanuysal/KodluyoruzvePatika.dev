@@ -2,7 +2,6 @@
 Kodluyoruz ve Patika.dev ortaklığıyla gerçekleşen projelerden aldığım eğitimleri içerir.
 
 # Patika.dev Veri Yapilari ve Algoritmalar
-Patika.dev'in Veri Yapıları ve Algoritmaları dersini bitirme projesidir.
 
 # Insertion Sort Projesi
 [22,27,16,2,18,6] -> Insertion Sort

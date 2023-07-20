@@ -1,7 +1,7 @@
-# KodluyoruzvePatika.dev
+# Kodluyoruz ve Patika.dev
 Kodluyoruz ve Patika.dev ortaklığıyla gerçekleşen projelerden aldığım eğitimleri içerir.
 
-# Patika.devVeriYapilariveAlgoritmalar
+# Patika.dev Veri Yapilari ve Algoritmalar
 Patika.dev'in Veri Yapıları ve Algoritmaları dersini bitirme projesidir.
 
 # Insertion Sort Projesi
@@ -170,4 +170,4 @@ Patika.dev'in Veri Yapıları ve Algoritmaları dersini bitirme projesidir.
     / \
    2   4
  ```
- 
+

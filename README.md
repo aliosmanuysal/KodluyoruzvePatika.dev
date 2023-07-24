@@ -7,4 +7,4 @@
 ### - [Patika.dev](https://academy.patika.dev/tr/profile)
 ### - [Linkedin](https://www.linkedin.com/in/aliosmanuysal/)
 ### - [HackerRank](https://www.hackerrank.com/aliosmanuysal)
-### - [Stackoverflow] (https://stackoverflow.com/users/20750301/aliosmanuysal)
+### - [Stackoverflow](https://stackoverflow.com/users/20750301/aliosmanuysal)

@@ -1,0 +1,17 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    list-style-position: inside;
+    background-color: rgb(228, 220, 207);
+    position: static;
+    border:1px solid rgb(228, 220, 207);
+    margin: 0 auto;
+    width:960px;
+}
+ol {
+    list-style-type: decimal;
+    list-style-position: inside;
+}
+.info {
+    text-align: start;
+}

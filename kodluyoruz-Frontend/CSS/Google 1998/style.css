@@ -1,0 +1,45 @@
+body {
+    background-color: #fff;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    margin: 0%;
+    text-align: center;
+    width: center;
+}
+input {
+    width: 30%;
+    padding: 50
+}
+h1 {
+    background-color: rgb(209, 205, 205);
+    padding: 10px;
+    margin: 20px;
+}
+ul {
+    background-color: #b30e0e;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    margin: 0%;
+    text-align: center;
+    width: center;
+}
+.search__language {
+    list-style-type: none;
+    width: center;
+    font-size: 14px;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #65ecda;
+    font-family: 'Roboto', sans-serif; 
+}
+.search__footer--list {
+    list-style-type: none;
+    width: center;
+    font-size: 14px;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #65ecda;
+    font-family: 'Roboto', sans-serif;
+}
